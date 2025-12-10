@@ -1,0 +1,9 @@
+## Introduction
+
+The Heidelberg Catechism (1563) was composed in the city of Heidelberg, Germany, at the request of Elector Frederick III, who ruled the province of the Palatinate from 1559 to 1576. The new catechism was intended as a tool for teaching young people, a guide for preaching in the provincial churches, and a form of confessional unity among the several Protestant factions in the Palatinate. An old tradition credits Zacharias Ursinus and Caspar Olevianus with being the coauthors of the catechism, but the project was actually the work of a team of ministers and university theologians under the watchful eye of Frederick himself. Ursinus probably served as the primary writer on the team, and Olevianus had a lesser role. The catechism was approved by a synod in Heidelberg in January 1563. A second and third German edition, each with small additions, as well as a Latin translation were published the same year in Heidelberg. The third edition was included in the Palatinate Church Order of November 15, 1563, at which time the catechism was divided into fifty-two sections or Lord's Days, so that one Lord's Day could be explained in an afternoon worship service each Sunday of the year.
+
+The Synod of Dort approved the Heidelberg Catechism in 1619, and it soon became the most ecumenical of the Reformed catechisms and confessions. It has been translated into many European, Asian, and African languages and is still the most widely used and warmly praised catechism of the Reformation period.
+
+Most of the footnoted biblical references in this translation of the catechism were included in the early German and Latin editions, but the precise selection was approved by Synod 1975 of the Christian Reformed Church.
+
+- [Lord's Day 1](./lords-day-01.md)
